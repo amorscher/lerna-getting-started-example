@@ -9,5 +9,8 @@
   },
   "volta": {
     "node": "18.17.1"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^7.0.2"
   }
 }
